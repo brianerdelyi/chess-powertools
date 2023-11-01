@@ -1,12 +1,12 @@
 # chesscom-export
 
-This python script exports a users chess games from chess.com to JSON and PGN file.
+This python script exports a users chess games from Chess.com to JSON and PGN file.
 
 ## Usage
 
 You MUST edit this script and include your chess.com username.
 
-python3 chesscom-export.py
+Syntax: python3 chesscom-export.py
 
 This will create games.json and games.pgn
 
